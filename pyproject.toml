@@ -1,7 +1,7 @@
 [project]
 name = "rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python-based Retrieval-Augmented Generation application using LangChain, Sentence Transformers, and ChromaDB."
 readme = "README.md"
 authors = [
     { name = "ShubhCoder-17", email = "1705patrashubhadeep@gmail.com" }

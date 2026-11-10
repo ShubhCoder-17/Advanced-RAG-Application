@@ -40,3 +40,13 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+# Python cache
+__pycache__/
+
+# Generated vector database
+data/vector_store/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
